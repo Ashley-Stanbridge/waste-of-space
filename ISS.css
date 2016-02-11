@@ -1,0 +1,39 @@
+.twitterpic {
+  float: right;
+}
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+
+
+} 
+
+#container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+#twitterFeed img {
+}
+
+.col-6 {
+  width: 50%;
+  float: left;
+
+}
+.col-3 {
+  width: 25%;
+  float: left;
+
+}
+.col-12 {
+  width: 100%;
+  float: left;
+
+}
+
+div {
+}
