@@ -4,6 +4,11 @@ var app = express();
 
 app.use(express.static(path.join(__dirname, '../static')));
 
+// var fileName = path.join(__dirname, '../static');
+// app.get('/', function (req, res) {
+//   res.sendFile(fileName);
+// });
+
 // app.get('/', function (req, res) {
 //   res.send('<html><head><title>ISS</title></head><body>Hello Again World!</body></html>');
 // });
